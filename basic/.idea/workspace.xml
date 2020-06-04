@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cnylFxz4FqOu5a75xSjEEI4UuT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/homework/day03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day04/src/com/amao" />
+      <recent name="$PROJECT_DIR$/day04/src/com/amao/demo2_static修饰成员变量" />
+      <recent name="$PROJECT_DIR$/day04/src/com/amao/demo1_final" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="BirdTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo2.BirdTest" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefrigeratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo1.RefrigeratorTest" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo13_抽象类和接口的练习.Test" />
+      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amao.demo13_抽象类和接口的练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo3.Test" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BirdTest" />
+        <item itemvalue="Application.RefrigeratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="" />
+      <created>1591178800212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591178800212</updated>
+      <workItem from="1591178801454" duration="36000" />
+      <workItem from="1591178976208" duration="4014000" />
+      <workItem from="1591232211396" duration="10572000" />
+      <workItem from="1591250528926" duration="11764000" />
+      <workItem from="1591267566937" duration="192000" />
+      <workItem from="1591268034857" duration="2809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="23" key="#Project_Structure" timestamp="1591267713798">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="230" y="23" key="#Project_Structure/0.23.1680.950@0.23.1680.950" timestamp="1591267713798" />
+    <state x="230" y="23" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1591232314465" />
+    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1591273464817">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591273464817" />
+    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1591180902246" />
+    <state x="590" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1591182687037" />
+    <state width="1628" height="231" key="GridCell.Tab.0.bottom" timestamp="1591264050905">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1628" height="231" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
+    <state width="1628" height="233" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591181819469" />
+    <state width="1628" height="232" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1591183397306" />
+    <state width="1628" height="232" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1591182505036" />
+    <state width="1628" height="231" key="GridCell.Tab.0.center" timestamp="1591264050905">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1628" height="231" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
+    <state width="1628" height="233" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591181819468" />
+    <state width="1628" height="232" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1591183397305" />
+    <state width="1628" height="232" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1591182505035" />
+    <state width="1628" height="231" key="GridCell.Tab.0.left" timestamp="1591264050904">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1628" height="231" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1591264050904" />
+    <state width="1628" height="233" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591181819468" />
+    <state width="1628" height="232" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1591183397305" />
+    <state width="1628" height="232" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1591182505034" />
+    <state width="1628" height="231" key="GridCell.Tab.0.right" timestamp="1591264050905">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1628" height="231" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
+    <state width="1628" height="233" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591181819469" />
+    <state width="1628" height="232" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1591183397306" />
+    <state width="1628" height="232" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1591182505035" />
+    <state x="224" y="23" key="SettingsEditor" timestamp="1591250854656">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="224" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1591250854656" />
+    <state x="224" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591232310254" />
+    <state x="577" y="272" key="chooseDestDirectoryDialog" timestamp="1591267690446">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="577" y="272" key="chooseDestDirectoryDialog/0.23.1680.950@0.23.1680.950" timestamp="1591267690446" />
+    <state x="497" y="205" width="746" height="592" key="find.popup" timestamp="1591179878903">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="497" y="205" width="746" height="592" key="find.popup/0.23.1680.956@0.23.1680.956" timestamp="1591179878903" />
+    <state x="36" y="23" key="new project wizard" timestamp="1591232308143">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="36" y="23" key="new project wizard/0.23.1680.956@0.23.1680.956" timestamp="1591232308143" />
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1591272930866">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1591252600957" />
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1591272930866" />
+    <state x="480" y="23" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1591182709010" />
+  </component>
+</project>
